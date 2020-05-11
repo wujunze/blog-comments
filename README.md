@@ -1,3 +1,3 @@
-# Blog-commits
-Blog commnets  
+# Blog-comments
+Blog comments  
 Blog https://wujunze.com
